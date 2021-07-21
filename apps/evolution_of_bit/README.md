@@ -19,8 +19,9 @@ Follow these rules when you implement this project.
 * The **ONLY** thing that in your main function is just only **life.Live()**
 
 ## Documents
-1.**Day_1**: Print it selves name and what time is it.
-2. **Day_2**: Add stdin sensor to life.
+1. **Day_1**: Print it selves name and what time is it.
+1. **Day_2**: Add stdin sensor to life.
+1. **Day_3**: Add functional options.
 
 ## Tool
 I wrote Makefile so you can use it  to generate files and run code.  
