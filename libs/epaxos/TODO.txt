@@ -1,0 +1,5 @@
+- Updated README with details instructions.
+- Average results over multiple trials.
+- Create dashboard.txt in addition to graphs.
+- virtualenv for experiment scripts.
+- Plot grid graphs.
